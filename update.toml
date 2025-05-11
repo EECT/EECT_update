@@ -5,4 +5,4 @@ changelog = """修复了250509（发布于2025/5/9）中的一个因为配置文
 date = "20250509"
 importance = "low"
 file_name = "EECT_1.0.0.1.250509.1.-windows-x64.zip"
-download_url = "github.com/EECT/EECT/releases/download/v1.0.0.1/EECT_1.0.0.1.250509.1.-windows-x64.zip"
+download_url = "https://github.com/EECT/EECT/releases/download/v1.0.0.1/EECT_1.0.0.1.250509.1.-windows-x64.zip"
