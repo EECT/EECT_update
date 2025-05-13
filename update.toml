@@ -5,4 +5,4 @@ changelog = """修复了250509（发布于2025/5/9）中的一个因为配置文
 date = "20250509"
 importance = "low"
 file_name = "EECT_1.0.0.1.250509.1.-windows-x64.zip"
-download_url = "hhttps://github.com/Lyang1273/data/raw/refs/heads/main/主题图片.zip"
+download_url = "https://github.com/Lyang1273/data/raw/refs/heads/main/1.zip"
