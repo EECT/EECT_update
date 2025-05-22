@@ -6,9 +6,10 @@ changelog = """本次测试版本更新内容：
 
 注：设置首页中的的名言可以在Issues投稿哦。
 
-Beta版可能会有些尚未被发现的bug，或是未完成的功能，如果你追求的是高稳定性和完整功能，请使用 最新正式版。"""
+Beta版可能会有些尚未被发现的bug，或是未完成的功能，如果你追求的是高稳定性和完整功能，请使用 最新正式版。
+"""
 date = "20250520"
 importance = "low"
 file_name = "131232.zip"
-download_url = "https://github.com/Lyang1273/data/raw/refs/heads/main/131232.zip"
+download_url = "https://bgithub.xyz/Lyang1273/data/raw/refs/heads/main/131232.zip"
 proxy_url = "https://ghfast.top/https://github.com/EECT/EECT/releases/download/v1.0.0.1/EECT_1.0.0.1.250509.1.-windows-x64.zip"
