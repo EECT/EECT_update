@@ -1,14 +1,8 @@
-version = "1.1.0.0-b1"
-version_code = "250520"
-changelog = """本次测试版本更新内容：
-1.全新设置界面以及更全面的设置项（虽然大部分都还用不了）
-2.在设置中加了一点动画效果，使界面切换不呢么生硬，后续会在更多界面加上。
-
-注：设置首页中的的名言可以在Issues投稿哦。
-
-Beta版可能会有些尚未被发现的bug，或是未完成的功能，如果你追求的是高稳定性和完整功能，请使用 最新正式版。
-"""
-date = "20250520"
+version = "1.0.0.1"
+version_code = "250509.1"
+changelog = """修复了250509（发布于2025/5/9）中的一个因为配置文件引起的bug。
+这个bug会导致程序无法启动且没有任何错误信息。"""
+date = "20250509"
 importance = "low"
 file_name = "131232.zip"
 download_url = "https://bgithub.xyz/Lyang1273/data/raw/refs/heads/main/131232.zip"
